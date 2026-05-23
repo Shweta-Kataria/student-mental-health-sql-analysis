@@ -1,7 +1,7 @@
 # Student Mental Health & the COVID Crisis
 ### SQL Data Pipeline & Longitudinal Analysis | 398,884 Students · 4 Years · Pre/During/Post COVID
 
-[View Live Tableau Dashboard](https://public.tableau.com/app/profile/shweta.kataria/viz/StudentMentalHealththeCOVIDCrisis/Dashboard1)
+[View Live Tableau Dashboard][(https://public.tableau.com/app/profile/shweta.kataria/viz/StudentMentalHealththeCOVIDCrisis/Dashboard1)](https://public.tableau.com/views/StudentMentalHealththeCOVIDCrisis/StudentMentalHealththeCOVIDCrisis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
